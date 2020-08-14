@@ -8,3 +8,13 @@ E:\Documents\C#\抽号码\抽号码\obj\Debug\抽号码.csproj.CoreCompileInputs
 E:\Documents\C#\抽号码\抽号码\obj\Debug\抽号码.exe
 E:\Documents\C#\抽号码\抽号码\obj\Debug\抽号码.pdb
 E:\Documents\C#\抽号码\抽号码\obj\Debug\抽号码.Form.resources
+E:\Documents\C#\Draw-numbers\抽号码\obj\Debug\抽号码.csprojAssemblyReference.cache
+E:\Documents\C#\Draw-numbers\抽号码\obj\Debug\抽号码.Form.resources
+E:\Documents\C#\Draw-numbers\抽号码\obj\Debug\抽号码.csproj.GenerateResource.cache
+E:\Documents\C#\Draw-numbers\抽号码\obj\Debug\抽号码.csproj.CoreCompileInputs.cache
+E:\Documents\C#\Draw-numbers\抽号码\bin\Debug\Draw-Numbers.exe.config
+E:\Documents\C#\Draw-numbers\抽号码\bin\Debug\Draw-Numbers.exe
+E:\Documents\C#\Draw-numbers\抽号码\bin\Debug\Draw-Numbers.pdb
+E:\Documents\C#\Draw-numbers\抽号码\obj\Debug\DrawNumbers.Properties.Resources.resources
+E:\Documents\C#\Draw-numbers\抽号码\obj\Debug\Draw-Numbers.exe
+E:\Documents\C#\Draw-numbers\抽号码\obj\Debug\Draw-Numbers.pdb
