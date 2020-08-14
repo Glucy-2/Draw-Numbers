@@ -1,0 +1,10 @@
+E:\Documents\C#\抽号码\抽号码\bin\Debug\抽号码.exe.config
+E:\Documents\C#\抽号码\抽号码\bin\Debug\抽号码.exe
+E:\Documents\C#\抽号码\抽号码\bin\Debug\抽号码.pdb
+E:\Documents\C#\抽号码\抽号码\obj\Debug\抽号码.csprojAssemblyReference.cache
+E:\Documents\C#\抽号码\抽号码\obj\Debug\抽号码.Properties.Resources.resources
+E:\Documents\C#\抽号码\抽号码\obj\Debug\抽号码.csproj.GenerateResource.cache
+E:\Documents\C#\抽号码\抽号码\obj\Debug\抽号码.csproj.CoreCompileInputs.cache
+E:\Documents\C#\抽号码\抽号码\obj\Debug\抽号码.exe
+E:\Documents\C#\抽号码\抽号码\obj\Debug\抽号码.pdb
+E:\Documents\C#\抽号码\抽号码\obj\Debug\抽号码.Form.resources
